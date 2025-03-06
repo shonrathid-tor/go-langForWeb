@@ -1,2 +1,2 @@
 # go-langForWeb
-go- lang basic project 
+Welcome to my project GO lang  for web 
